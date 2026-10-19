@@ -10,7 +10,6 @@ Proactive and self-motivated Senior Software Engineer with 10+ years of experien
 
 📌 **Featured Projects**
 
-* [Insert a link to a Python/FastAPI or React AI prototype here if you have one]
 * [keep-bluetooth-speaker-alive](https://github.com/yury-alikin/keep-bluetooth-speaker-alive) — A lightweight macOS menu bar utility built with Swift that prevents Bluetooth speakers from going to sleep by playing a subtle, inaudible audio ping.
 
 📫 **How to Reach Me**
